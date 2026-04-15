@@ -14,10 +14,11 @@ It makes them easier to find, update, and reuse.
 
 This repo has examples for these tools:
 
+- `antigravity/` - rules, workflows, skills
+- `claude-code/` - rules, skills
 - `copilot/` - instructions, prompts, skills
 - `cursor/` - rules, commands, skills
 - `windsurf/` - rules, workflows, skills
-- `antigravity/` - rules, workflows, skills
 
 Most files have a `source:` link to the original repo.
 
