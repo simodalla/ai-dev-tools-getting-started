@@ -1,14 +1,8 @@
+This repo is forked from [https://github.com/dvasyliev/ai-dev-tools-getting-started]([https://github.com/github/awesome-copilot/tree/main/instructions](https://github.com/dvasyliev/ai-dev-tools-getting-started))
+
 # AI Dev Tools Getting Started
 
-This repo keeps examples from my courses in one place.
-
-It makes them easier to find, update, and reuse.
-
 ## What this repo is for
-
-- Keep course examples in one repo
-- Make updates easier
-- Keep links to the original source repos
 
 ## What it contains
 
@@ -46,27 +40,3 @@ Some marketplaces indicate that a file, author, or version has been reviewed or 
 - [AGNXI skills](https://agnxi.com/)
 - [MoizIbnYousaf skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills/tree/main/skills)
 - [Vibe Coding Tools Agents](https://www.vibecodingtools.tech/agents)
-
-# My Courses
-
-#### AI Coding Assistants Courses
-
-😈 [GitHub Copilot for Beginners: AI Coding Crash Course](https://linkly.link/2B4WN)\
-👻 [Cursor AI for Beginners: AI Coding Crash Course](https://linkly.link/2CKBT)\
-🎆 [Google Antigravity for Beginners: AI Coding Crash Course ](https://linkly.link/2ZqIu)\
-🏄🏻‍♂️ [Windsurf for Beginners: AI Coding Crash Course ](https://linkly.link/2DUC9)
-
-#### Vibe Coding Courses
-
-❤️ [Lovable AI: Complete Guide for Vibe Coding](https://linkly.link/2DUC1)\
-🦾 [Vibe Coding for Developers: v0 AI, Supabase, Vercel Deploy](https://linkly.link/2ZqJ5)
-
-#### Front-End Courses
-
-🧑🏻‍💻 [React Crash Course: From Zero to Hero](https://linkly.link/1zdiJ)\
-🤖 [React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek](https://linkly.link/2DUBq)
-
-#### Full-Stack Courses
-
-👓 [Next.js Crash Course: Build a Full-Stack App in a Weekend](https://linkly.link/2EUQ5)\
-🧩 [Node.js Crash Course: Build a REST API in a Weekend](https://linkly.link/2EUQ6)
