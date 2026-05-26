@@ -1,4 +1,6 @@
-This repo is forked from [https://github.com/dvasyliev/ai-dev-tools-getting-started]([https://github.com/github/awesome-copilot/tree/main/instructions](https://github.com/dvasyliev/ai-dev-tools-getting-started)
+This repo is forked from [https://github.com/dvasyliev/ai-dev-tools-getting-started](https://github.com/dvasyliev/ai-dev-tools-getting-started)
+
+
 
 # AI Dev Tools Getting Started
 
